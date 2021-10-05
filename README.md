@@ -17,5 +17,12 @@ Following Python packages are used:
 4. webbrowser
 5. pyqt5
 
+# Credits
+Raghav Kumar => Programmer
+
+Aashish Arora => Interface Designer
+
+
+
 ## License
-[![License](https://www.boost.org/LICENSE_1_0.txt)]
+Please view LICENSE in the repository.
