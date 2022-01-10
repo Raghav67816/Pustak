@@ -343,7 +343,7 @@ class App_Window(QtWidgets.QMainWindow):
 
             # If discard is clicked then it will close the app.
             elif close_app_msg_box == QtWidgets.QMessageBox.StandardButton.Discard:
-                event.accept()
+                self.close()
 
             # If cancel is clicked then it will do nothing.
             elif close_app_msg_box == QtWidgets.QMessageBox.StandardButton.Cancel:
@@ -439,11 +439,11 @@ class App_Window(QtWidgets.QMainWindow):
     """
 
     def zoom_Out(self):
-        # Zoom + 1
+        # Zoom - 1
         self.user_interface.editor.zoomOut(1)
 
     def zoom_In(self):
-        # Zoom in -1
+        # Zoom in + 1
         self.user_interface.editor.zoomIn(1)
 
     """
