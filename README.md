@@ -19,7 +19,9 @@ Following Python packages are used:
 
 # Credits
 Raghav Kumar => Programmer
+
 Icons => flaticon.com
+
 Aashish Arora => Interface Designer
 
 
