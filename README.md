@@ -1,6 +1,6 @@
 # Pustak
 
-Pustak is simple open-source text editor. It has good features like writing day name or date time in the editor. We are trying to make this customizable and flexible according to your requirements.
+Pustak is a lightwieght easy-to-use text editor which is made fully customizable. It's more than any other text-editor.
 
 ## Install
 To install as a simple use see     https://github.com/Raghav67816/Pustak
