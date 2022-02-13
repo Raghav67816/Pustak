@@ -22,8 +22,6 @@ Raghav Kumar => Programmer
 
 Icons => flaticon.com
 
-Aashish Arora => Interface Designer
-
 
 
 ## License
